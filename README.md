@@ -1,2 +1,2 @@
 This is a test
-Testing lab 2
+Testing Lab 2 
