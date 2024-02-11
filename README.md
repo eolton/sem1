@@ -1,1 +1,1 @@
-This is a test no 2
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/eolton/sem1/main.yml?branch=master)
